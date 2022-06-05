@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋 This is my learning corner
+- 🇹🇼 I'm majoring in IM.
+- 💻 I'm interested in algorithms and C language
+- 🌱 My summer vacation goal : learning Python and C++
 
 <!--
 **HsienChihLi/HsienChihLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
