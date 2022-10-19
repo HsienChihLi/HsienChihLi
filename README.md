@@ -1,4 +1,4 @@
-### Hi👋 This is my learning corner
+### Hi👋 I'm Sandra!
 - 🇹🇼 I'm majoring in IM.
 
 <!--
