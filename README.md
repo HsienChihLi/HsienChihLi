@@ -1,5 +1,5 @@
 ### Hi👋 I'm Sandra!
-- 🇹🇼 I'm majoring in IM.
+- 🇹🇼 I major in IM.
 
 <!--
 **HsienChihLi/HsienChihLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
